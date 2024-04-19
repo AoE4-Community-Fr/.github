@@ -1,4 +1,4 @@
-# Bienvenue sue le github de la communautée Age of Empire IV
+# Bienvenue sur le github de la communauté Age of Empire IV
 
 Vous pouvez nous retrouver sur le discord
 
